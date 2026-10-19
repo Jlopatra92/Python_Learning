@@ -6,5 +6,5 @@ I am using this repo to practice python
 
 ## Progress
 - [x] Setup and first script
-- [ ] Variables and data types
+- [x] Variables and data types
 - [ ] Control flow
