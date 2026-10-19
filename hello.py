@@ -1,3 +1,4 @@
+ #Introduction to Python Using Basic Syntax
 print("Hi, this my first python code")
 # Store the final exam score
 X = 10
@@ -23,9 +24,13 @@ c= "Hello" #string
 d= True #boolean
 g= False #boolean
 H= None #NoneType
-
 text= "hi"
 number=10
-
 print(text.upper() )
 print(number.bit_length())
+# Data type Challenge
+print( "My Age is 25")
+print ( "My name is Jennifer")
+print ( " I am a PHd Student in Information Technology")
+print ( "My Height is 5.4 feet" )
+# How Work with Variables and Strings
